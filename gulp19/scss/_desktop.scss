@@ -1,0 +1,16 @@
+@media(max-width:991px) {
+    .box {
+      width: 100%;
+    }
+  }
+    @media (max-width:767px) {
+    .box {
+      width: 100%;
+      flex-direction: column;
+    }
+    .single-box {
+      margin-right: 0;
+      width: 100%;
+      margin-bottom: 110px;
+    }
+  }
